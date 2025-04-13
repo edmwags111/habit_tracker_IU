@@ -3,13 +3,31 @@
 # ---------------------------------------------
 # setup.sh – Instructional script for beginners
 # ---------------------------------------------
-# This script does NOT run the application.
-# Instead, it PRINTS OUT step-by-step terminal
-# commands for running, compiling, and testing
-# the Habit Tracker CLI app in both Python and Java.
+# This script does NOT run the Habit Tracker.
+# It simply prints clear terminal commands that
+# you can copy and paste to:
+# - Run the app in Python
+# - Run the app in Java
+# - Run automated Python tests
 #
-# Why? To give users a clean, reproducible way
-# to understand how to interact with the project.
+# This helps beginners get started quickly without guessing commands.
+#
+# 🧑‍💻 HOW TO USE THIS FILE:
+#
+# 1. Open your GitHub Codespaces terminal (bottom pane)
+# 2. Navigate to the habit_tracker_main folder:
+#       cd habit_tracker_main
+# 3. Run this script by typing:
+#       bash setup.sh
+# 4. Follow the printed steps. Copy-paste them one at a time.
+# 5. If you get stuck, read the README.md or usage.md in the docs folder.
+#
+# 💡 You can use this in:
+# - GitHub Codespaces (recommended)
+# - Local VS Code terminal
+# - Git Bash / WSL / Linux / macOS Terminal
+#
+# Note: This script prints instructions. It does not run the app by itself.
 
 echo ""
 echo "🔧 Setting up Habit Tracker CLI project..."
