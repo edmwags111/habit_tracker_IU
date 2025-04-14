@@ -120,16 +120,16 @@ This cheat sheet is designed to help you navigate and operate efficiently inside
 
 Example:
 
-habit-tracker/                   ← This is your root project folder  
-├── src/                         ← "src" stands for "source code"  
-│   ├── java/                    ← Java folder (your Android app or Java logic)  
-│   │   └── ...                  ← This is where your Java classes live  
-│   └── python/                  ← Python folder (for analytics, backend logic)  
-│       └── ...                  ← Python modules, services, app.py, etc.  
-├── tests/                       ← Folder for all your tests  
-│   ├── python/                  ← Python unit/integration tests  
-│   └── java/                    ← Java test files (if needed)  
-├── .github/workflows/           ← GitHub Actions folder for CI/CD pipelines  
-├── README.md                    ← Project overview, usage, and setup instructions  
-└── requirements.txt             ← Python dependencies list  
+habit-tracker/                   #← This is your root project folder  
+├── src/                         #← "src" stands for "source code"  
+│   ├── java/                    #← Java folder (your Android app or Java logic)  
+│   │   └── ...                  #← This is where your Java classes live  
+│   └── python/                  #← Python folder (for analytics, backend logic)  
+│       └── ...                  #← Python modules, services, app.py, etc.  
+├── tests/                       #← Folder for all your tests  
+│   ├── python/                  #← Python unit/integration tests  
+│   └── java/                    #← Java test files (if needed)  
+├── .github/workflows/           #← GitHub Actions folder for CI/CD pipelines  
+├── README.md                    #← Project overview, usage, and setup instructions  
+└── requirements.txt             #← Python dependencies list  
 
